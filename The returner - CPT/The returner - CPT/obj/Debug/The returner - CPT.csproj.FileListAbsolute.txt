@@ -1,0 +1,17 @@
+D:\Coding Class - Rey Lendle Briones\The returner - CPT\The returner - CPT\bin\Debug\The returner - CPT.exe.config
+D:\Coding Class - Rey Lendle Briones\The returner - CPT\The returner - CPT\bin\Debug\The returner - CPT.exe
+D:\Coding Class - Rey Lendle Briones\The returner - CPT\The returner - CPT\bin\Debug\The returner - CPT.pdb
+D:\Coding Class - Rey Lendle Briones\The returner - CPT\The returner - CPT\obj\Debug\The returner - CPT.csproj.AssemblyReference.cache
+D:\Coding Class - Rey Lendle Briones\The returner - CPT\The returner - CPT\obj\Debug\The returner - CPT.csproj.SuggestedBindingRedirects.cache
+D:\Coding Class - Rey Lendle Briones\The returner - CPT\The returner - CPT\obj\Debug\The_returner___CPT.Form1.resources
+D:\Coding Class - Rey Lendle Briones\The returner - CPT\The returner - CPT\obj\Debug\The_returner___CPT.Form2.resources
+D:\Coding Class - Rey Lendle Briones\The returner - CPT\The returner - CPT\obj\Debug\The_returner___CPT.Form3.resources
+D:\Coding Class - Rey Lendle Briones\The returner - CPT\The returner - CPT\obj\Debug\The_returner___CPT.Form4.resources
+D:\Coding Class - Rey Lendle Briones\The returner - CPT\The returner - CPT\obj\Debug\The_returner___CPT.Properties.Resources.resources
+D:\Coding Class - Rey Lendle Briones\The returner - CPT\The returner - CPT\obj\Debug\The returner - CPT.csproj.GenerateResource.cache
+D:\Coding Class - Rey Lendle Briones\The returner - CPT\The returner - CPT\obj\Debug\The returner - CPT.csproj.CoreCompileInputs.cache
+D:\Coding Class - Rey Lendle Briones\The returner - CPT\The returner - CPT\obj\Debug\The returner - CPT.exe
+D:\Coding Class - Rey Lendle Briones\The returner - CPT\The returner - CPT\obj\Debug\The returner - CPT.pdb
+D:\Coding Class - Rey Lendle Briones\The returner - CPT\The returner - CPT\obj\Debug\The_returner___CPT.Form5.resources
+D:\Coding Class - Rey Lendle Briones\The returner - CPT\The returner - CPT\obj\Debug\The_returner___CPT.Form6.resources
+D:\Coding Class - Rey Lendle Briones\The returner - CPT\The returner - CPT\obj\Debug\The_returner___CPT.Form7.resources
